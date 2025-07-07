@@ -15,9 +15,9 @@ I intentionally included side-by-side code snippets in C#, Java, and C++ to show
 
 ## Pedagogical Decisions
 
-- Concrete Examples: Rather than abstract explanations, I used real scenarios like divide-by-zero or file handling to make the material relatable.
-- Progressive Complexity: The article builds from understanding what exceptions are to writing custom exceptions, and then ends with industry-aligned best practices. This gradual escalation is designed to support retention.
-- Cross-Language Focus: Given the multilingual requirement, I carefully curated examples that are conceptually parallel across languages, allowing learners to compare and contrast.
+- **Concrete Examples:** Rather than abstract explanations, I used real scenarios like divide-by-zero or file handling to make the material relatable.
+- **Progressive Complexity:** The article builds from understanding what exceptions are to writing custom exceptions, and then ends with industry-aligned best practices. This gradual escalation is designed to support retention.
+- **Cross-Language Focus:** Given the multilingual requirement, I carefully curated examples that are conceptually parallel across languages, allowing learners to compare and contrast.
 
 ## Challenges Faced
 
